@@ -9,4 +9,4 @@ for i in range(1, 101):
         else:
             print("5의 배수입니다")
     else:
-        print(i)
+        print("계산완료")
